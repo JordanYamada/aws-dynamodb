@@ -1,0 +1,26 @@
+{
+  "name": "aws-dynamodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanYamada/aws-dynamodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanYamada/aws-dynamodb/issues"
+  },
+  "homepage": "https://github.com/JordanYamada/aws-dynamodb#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "dynamoose": "^3.1.0",
+    "nanoid": "^4.0.0",
+    "uuid": "^9.0.0"
+  }
+}
